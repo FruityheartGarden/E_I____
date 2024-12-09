@@ -1,0 +1,15 @@
+Foods, mOsmol / kg
+Milk human(hito), 311.5
+Milk cow(ushi), 290.2
+Milk goat(yagi), 339
+Juice apple(ringo), 700 ~ 705
+Tea(koucha), 5
+Apple(ringo), 464.4
+Tomato, 120
+Potato, 290.5
+Eggplant(nasu), 155.2
+Pumpkin(kabocha), 407.2
+(satsumaimo), 407.2
+Spinach(hourensou), 258.4
+Cabbage(kyabetsu), 347.7
+Radish(daikon), 271.2

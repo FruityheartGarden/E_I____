@@ -1,0 +1,19 @@
+Foods, mg / 100 grams
+(satsumaimo), 17.0
+(satoimo), 1.9
+(jagaimo), 6.5
+(yamatoimo), 4.1
+(abokado), 18.4
+(tomato), 6.5
+(nasu), 50.7
+(pīman), 69.2
+(puchitomato), 3.1
+(jūsu furūtsu), 1.1
+(gōya), 9.9
+Milk-cow(gyuunyuu), 0
+Spinach(hourensou), 51.4
+(komatsuna), 11.6
+(shiso), 41.5
+(syouga), 2.25
+(okura), 39.5
+(myouga), 7.79
