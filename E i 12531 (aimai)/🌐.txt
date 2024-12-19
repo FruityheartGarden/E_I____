@@ -2,7 +2,7 @@ cilantro, 53
 radiccio, 32
 arugala, 10.4
 tarragon,10
-lovage leaf, 170
+lovage leaf, (seri rabēji),170
 
 ---
 
