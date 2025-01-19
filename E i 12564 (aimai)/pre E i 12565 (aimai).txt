@@ -1,0 +1,7 @@
+--------------------
+(data to line-tail)
+--------------------
+赤ピーマン　データ　seeds
+電子グラム機器
+Spinach Siケイ素　データ　mg/100grams
+Siケイ素　5-ALA、csvデータ。
